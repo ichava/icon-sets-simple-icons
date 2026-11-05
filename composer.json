@@ -1,7 +1,7 @@
 {
     "name": "ichava/icon-sets-simple-icons",
     "description": "3,255 Simple Icons brand glyphs (v16.36.0) for Laravel 13 on the Ichava icon ecosystem. Artwork CC0-1.0; the marks are their owners' trademarks.",
-    "type": "library",
+    "type": "ichava-icon-set",
     "keywords": [
         "icons",
         "svg",
@@ -23,9 +23,7 @@
     ],
     "require": {
         "php": "^8.4.1 || ^8.5",
-        "illuminate/support": "^13.0",
-        "ichava/core": "^0.1",
-        "laranail/package-tools": "^0.1.0"
+        "ichava/core": "^0.1"
     },
     "repositories": [
         {
