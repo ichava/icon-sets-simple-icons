@@ -20,7 +20,7 @@ declare(strict_types=1);
 | two the series may run one minor ahead of the manifest, never further.
 |
 | Pest functions only: a PHPUnit class in the same file would stop being
-| collected (see PackageMetadataTest.php).
+| collected.
 |
 */
 
