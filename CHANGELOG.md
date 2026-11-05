@@ -4,6 +4,10 @@ All notable changes to `ichava/icon-sets-simple-icons` follow [Keep a Changelog]
 
 ## [Unreleased]
 
+### Changed
+
+- **The upstream sync runs icon-sets-sync `06b17d7`** (icon-sets-sync#88), up from `5fa93a6`, which adds this pack's recipe, the `split-variants` and `exclude` transforms, and the `licence_sha256` pin on the upstream licence text. The `uses:` pin and `toolkit-ref` move together; the reusable workflow's inputs did not change between the two commits, so the caller's `with:` block is untouched.
+
 ## [0.1.0] - TBD
 
 First release of `ichava/icon-sets-simple-icons`.
