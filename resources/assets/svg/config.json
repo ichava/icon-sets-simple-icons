@@ -14,7 +14,7 @@
       "ichava"
     ],
     "version": "0.1.0",
-    "upstream_version": "16.36.0",
+    "upstream_version": "16.37.0",
     "type": "single",
     "kind": "icon",
     "license": "CC0-1.0"
@@ -52,7 +52,7 @@
       "package": "simple-icons",
       "source_path": "icons"
     },
-    "current_version": "16.36.0",
+    "current_version": "16.37.0",
     "version_check_url": "https://registry.npmjs.org/simple-icons/latest",
     "license": "CC0-1.0",
     "cdn": {
@@ -1134,6 +1134,6 @@
     "upstream_path": "LICENSE.md",
     "sha256": "9046848b63a5c92bff14e4accca80bd987e0623b74adf9226ce5198d312b79d5",
     "checked_at": "2026-11-04",
-    "checked_version": "16.36.0"
+    "checked_version": "16.37.0"
   }
 }
