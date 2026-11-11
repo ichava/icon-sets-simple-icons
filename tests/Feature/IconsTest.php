@@ -35,7 +35,7 @@ it(description: 'ships every icon flat under files/', closure: function () {
     $files = dirname(__DIR__, 2) . '/resources/assets/svg/files';
 
     expect(glob($files . '/*', GLOB_ONLYDIR) ?: [])->toBe([], 'a flat pack has no folders under files/')
-        ->and(count(glob($files . '/*.svg') ?: []))->toBe(3255);
+        ->and(count(glob($files . '/*.svg') ?: []))->toBe(3258);
 });
 
 it(description: 'picks up the package in the icon registry', closure: function () {
