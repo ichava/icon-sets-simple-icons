@@ -5,7 +5,7 @@
 [![Static analysis](https://github.com/ichava/icon-sets-simple-icons/actions/workflows/code-quality.yml/badge.svg)](https://github.com/ichava/icon-sets-simple-icons/actions/workflows/code-quality.yml)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> Simple Icons for the Ichava Laravel icon ecosystem: 3,258 SVGs, flat, vendored from `simple-icons` 16.36.0. Brand marks are their owners' trademarks.
+> Simple Icons for the Ichava Laravel icon ecosystem: 3,258 SVGs, flat, vendored from `simple-icons` 16.37.0. Brand marks are their owners' trademarks.
 
 Requires [`ichava/core`](https://github.com/ichava/core) `^0.1` on PHP `^8.4.1 || ^8.5` and Laravel `^13`.
 
